@@ -1,5 +1,5 @@
 # RMSystemAlerts
-MicroServicio encargado de escuchar los eventos reportados por el simulador (producer) y de generar ciertas alertas o notificaciones
+MicroServicio encargado de escuchar los eventos reportados por el simulador (producer) y de generar ciertas alertas o notificaciones. Las noficaciones son registradas en el archivo log.txt
 
 
 Para ejecutar el microservicio localmente.
